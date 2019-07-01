@@ -16,6 +16,7 @@
     "slate": "rimraf node_modules && npm install",
     "lint": "eslint client server"
   },
+ 
   "pre-commit": [
     "lint",
     "test"
