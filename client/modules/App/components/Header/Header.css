@@ -1,7 +1,7 @@
 .header {
-  background: #eee url('../../header-bk.png') center;
+  background: rgb(136, 83, 83) url('../../header-bk.png') center;
   background-size: cover;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid rgb(201, 195, 195);
 }
 
 .content {
@@ -26,10 +26,10 @@
 .add-post-button {
   display: inline-block;
   color: #FFF;
-  background: #03A9F4;
+  background: rgb(53, 51, 51);
   padding: 8px 16px;
   text-decoration: none;
-  border-radius: 1000px;
+  border-radius: 20px;
   float: right;
 }
 

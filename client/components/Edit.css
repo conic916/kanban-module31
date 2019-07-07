@@ -1,0 +1,15 @@
+input {
+    background: rgb(35, 35, 39);
+}
+
+button.delete {
+    color: red;
+    font-size: 25px;
+    border: none;
+    background-color:white;
+    text-align: right;
+}
+
+.value {
+    color: blue;
+}
